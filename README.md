@@ -1,3 +1,4 @@
+<img src="![image](https://user-images.githubusercontent.com/84568873/220891507-c6a8b724-9599-4b40-86b1-94a857acfda5.png)">
 <h2> Hey there! I'm ABHINAV.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
